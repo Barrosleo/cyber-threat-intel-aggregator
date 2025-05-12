@@ -1,0 +1,5 @@
+log_id,timestamp,source,user,activity,detail
+101,2025-05-07T08:31:00,SIEM,alice,login,successful
+102,2025-05-07T08:33:00,SIEM,alice,file-access,sensitive_document.docx
+103,2025-05-07T08:36:00,SIEM,bob,download,large_file.zip
+104,2025-05-07T08:40:00,SIEM,alice,logout,normal
