@@ -1,0 +1,4 @@
+feed_id,timestamp,indicator,type,confidence,source
+1,2025-05-07T08:30:00,192.168.1.100,IP,85,abuse.ch
+2,2025-05-07T08:32:00,malicious.com,Domain,90,VirusTotal
+3,2025-05-07T08:35:00,e99a18c428cb38d5f260853678922e03,Hash,80,MISP
